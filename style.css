@@ -16,7 +16,7 @@ section{
     margin-bottom:150px;
 }
 .big-dream{
-    /*background-image:url(img/banner3.jpg)*/ ;
+    /*background-image:url(img/banner3.jpg) ;*/
     background-repeat: no-repeat;
 }
 .half-width{
@@ -40,7 +40,7 @@ img{
     font-weight:700;
 }
 .top-banner{
-    /*background-image: url("img/4.jpg")*/;
+    /*background-image: url("img/4.jpg");*/
     background-repeat: no-repeat;
     
 
